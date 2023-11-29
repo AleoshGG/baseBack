@@ -9,12 +9,12 @@ Asegúrate de tener instalado [Node.js](https://nodejs.org/) en tu máquina.
 ## Instalación
 1. Clona este repositorio en tu máquina local:
     ```bash
-    git clone https://github.com/tu-usuario/tu-proyecto.git
+    git clone https://github.com/Daniel-Sarmiento/API-REST-taller-UP.git
     ```
 
 2. Navega al directorio del proyecto:
     ```bash
-    cd tu-proyecto
+    cd API-REST-taller-UP
     ```
 
 3. Instala las dependencias del proyecto:
