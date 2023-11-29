@@ -35,3 +35,8 @@ Ejecuta las migraciones de la base de datos:
    ```bash
    npm run migrate
    ```
+## Ejecución
+Levanta el proyecto:
+   ```bash
+   npm start
+   ```
