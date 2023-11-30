@@ -5,6 +5,11 @@ const app = express();
 
 // Importación de router
 const productsRouter = require('./src/routes/products.route');
+// Importación de middleware de CORS
+const cors = require('./src/middlewares/cors.middleware');
+
+// Configuración de middleware de CORS
+app.use(cors);
 
 // Configuración de middleware de body parser
 app.use(express.json());
